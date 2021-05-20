@@ -1,0 +1,5 @@
+{
+    "port":5000,
+    "mongoUri":"mongodb+srv://VladyslavKozlov:vv654321@cluster0.0jzqk.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret":"Ще не вмерли України ні славаб ні воля"
+}
